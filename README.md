@@ -8,6 +8,7 @@ The algorithms used in this project are
 2 - Local Outlier Factor(LOF) Algorithm
 3 - Support Vector machine.
 And will compare all of these.
+Brief Algorithms overview that are used - 
 
 What is Isolation Forest Algorithm?
 
