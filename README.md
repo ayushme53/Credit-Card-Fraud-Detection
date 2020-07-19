@@ -2,9 +2,6 @@ Project Made/Contributor = Ayush Mehra
 
 Problem Statement - Credit Card Fraud Detection.
 
-Context -.
-As we know frauds are happening more and more and because of this credit cards companies should be able to recognize the transaction that was not made by the card owner and he should not be charged for the items he did not purchase.
-
 This project will classify whether the transaction made by the user is illegal or not.
 The algorithms used in this project are
 1 - Isolation Forest Algorithm
@@ -33,9 +30,9 @@ We have classified and done a detailed data analysis of the data using Python’
 
 Final Result - 
 
-Isolation forest has 99.74% more accurate than LOF of 99.65% and SVM of 70.09%.
-Fraud cases detection in isolation forest is 27 % and in LOF it is just 2 %  and SVM it is 0 %.
-To improve we can increase the sample size or some deep learning algorithms but that will increase the computational expense. 
-Isolation Forest detected 73 errors versus Local Outlier Factor detecting 97 errors vs. SVM detecting 8516 errors
+1 - Isolation forest has 99.74% more accurate than LOF of 99.65% and SVM of 70.09%.
+2 - Fraud cases detection in isolation forest is 27 % and in LOF it is just 2 %  and SVM it is 0 %.
+3 - To improve we can increase the sample size or some deep learning algorithms but that will increase the computational expense. 
+4 - Isolation Forest detected 73 errors versus Local Outlier Factor detecting 97 errors vs. SVM detecting 8516 errors
 
 (The code is commented for better understanding)
